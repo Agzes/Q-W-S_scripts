@@ -1,5 +1,6 @@
-# My script in roblox 
-Hi I create WertyScrpt and QwertyHub
+# Q-W-S scripts
+
+QWS scripts:
 
 WertyScript:
 
@@ -8,9 +9,10 @@ WertyScript:
 QwertyHub:
 
     loadstring(game:HttpGet("https://pastebin.com/raw/VtEkWhf3"))()
+    
+Ani-Moon-Fors:
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/f0a3yune')))()
 
 DISCORD - !Anonymous#3816
-
-
-*WertyScriptOwner/MAIN is licensed under the*
-*GNU Affero General Public License v3.0*
+DISCORD - https://discord.gg/S8XGZwMAxm
